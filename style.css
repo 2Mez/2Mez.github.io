@@ -240,3 +240,10 @@ header{
     margin-bottom: 91px;
     color: #fff;
 }
+
+.testimonials .card .content .lauri{
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 6.5px;
+    color: #fff;
+}
